@@ -1,0 +1,4 @@
+			$emailSession= ['email' => $gpUserProfile['email']];
+$gpUserProfile['given_name']
+$gpUserProfile['family_name']
+$gpUserProfile['picture']
